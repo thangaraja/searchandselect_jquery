@@ -2,7 +2,7 @@ jQuery Dropdown plugin: Includes server side pagination & search records.
 
 ![alt tag](http://i.imgur.com/c1RgeTg.png)
 
-See demo: [http://searchandselectjquery.apphb.com/SearchAndSelect/demo/](http://searchandselectjquery.apphb.com/SearchAndSelect/demo/)
+See demo: [http://searchandselectjquery.apphb.com/](http://searchandselectjquery.apphb.com/)
 
 ### Dependencies. 
 1. Twitter Bootstrap
