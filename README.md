@@ -7,6 +7,11 @@ See demo: [http://searchandselectjquery.apphb.com/](http://searchandselectjquery
 ### Dependencies. 
 1. Twitter Bootstrap
 
+### Result format. 
+It should have the properties “TotalRecords” and “Records”.
+
+![alt tag](http://i.imgur.com/SyA8mqs.png)
+
 In HTML
 
 Define empty div
